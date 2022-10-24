@@ -1,0 +1,2 @@
+# gege
+pseudocódigo lanchonete
